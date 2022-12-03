@@ -1,7 +1,7 @@
 <!-- Entries between SOLUTIONS and RESULTS tags are auto-generated -->
 
 [![AoC](https://badgen.net/badge/AoC/2022/blue)](https://adventofcode.com/2022)
-[![Node](https://badgen.net/badge/Node/v16.13.0+/blue)](https://nodejs.org/en/download/)
+[![Node](https://badgen.net/badge/Node/v19.1.0/blue)](https://nodejs.org/en/download/)
 ![Language](https://badgen.net/badge/Language/TypeScript/blue)
 [![Template](https://badgen.net/badge/Template/aocrunner/blue)](https://github.com/caderek/aocrunner)
 
@@ -10,8 +10,8 @@
 ## Solutions
 
 [<img src="https://badgen.net/badge/01/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day01/README.md)
-![Day](https://badgen.net/badge/02/%E2%98%86%E2%98%86/gray)
-![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)
+[<img src="https://badgen.net/badge/02/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day02/index.ts)
+[<img src="https://badgen.net/badge/03/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day03/index.ts)
 ![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
 
@@ -44,7 +44,7 @@ _Click a badge to go to the specific day._
 ---
 
 ```
-Total stars: 2/50
+Total stars: 6/50
 ```
 
 ---
