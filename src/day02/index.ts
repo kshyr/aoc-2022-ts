@@ -2,6 +2,11 @@ import run from "aocrunner";
 
 const parseInput = (rawInput: string) => rawInput;
 
+const outcome = (yourChoice: string, roundScore: number): number => {
+
+  return roundScore;
+}
+
 const part1 = (rawInput: string): number => {
   const input = parseInput(rawInput);
   let score = 0;
