@@ -9,7 +9,7 @@ const part1 = (rawInput: string) => {
   lines.forEach((line) => {
     let pair1 = line.split(",")[0];
     let pair2 = line.split(",")[1];
-    
+
     let pair1XInt = parseInt(pair1.split("-")[0]);
     let pair1YInt = parseInt(pair1.split("-")[1]);
     let pair2XInt = parseInt(pair2.split("-")[0]);
@@ -20,7 +20,6 @@ const part1 = (rawInput: string) => {
     } else if (pair1XInt >= pair2XInt && pair1YInt <= pair2YInt) {
       res++;
     }
-  
   });
   return res;
 };
@@ -32,7 +31,7 @@ const part2 = (rawInput: string) => {
   lines.forEach((line) => {
     let pair1 = line.split(",")[0];
     let pair2 = line.split(",")[1];
-    
+
     let pair1XInt = parseInt(pair1.split("-")[0]);
     let pair1YInt = parseInt(pair1.split("-")[1]);
     let pair2XInt = parseInt(pair2.split("-")[0]);

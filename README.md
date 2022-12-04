@@ -10,9 +10,9 @@
 ## Solutions
 
 [<img src="https://badgen.net/badge/01/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day01/README.md)
-[<img src="https://badgen.net/badge/02/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day02/index.ts)
-[<img src="https://badgen.net/badge/03/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day03/index.ts)
-![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
+[<img src="https://badgen.net/badge/02/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day02/README.md)
+[<img src="https://badgen.net/badge/03/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day03/README.md)
+[<img src="https://badgen.net/badge/04/%E2%98%85%E2%98%85/green">](https://github.com/deko95/aoc-2022-ts/blob/master/src/day04/README.md)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
 
 ![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
@@ -44,7 +44,7 @@ _Click a badge to go to the specific day._
 ---
 
 ```
-Total stars: 6/50
+Total stars: 8/50
 ```
 
 ---
